@@ -2,6 +2,7 @@
 Réalisation d'un programmateur pour ATMEGA 328P
 
 ### Rédaction d'un rapport de TP
+Travaux pratiques façon scolaire réalisés en septembre 2023. Ce TP fait partie d'une étude globale des petites architectures de microcontrôleurs en vue de l'utiliser en Domotique et en modélisme.
 ``TP-n°1_Howto-Bootloader-ATM328.pdf
 ``
 ### Rédaction d'une fiche de procédure
